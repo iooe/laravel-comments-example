@@ -1,4 +1,4 @@
-Example for laravel comments package. 
+Example for laravel comments package (v2.0). 
 
 
 Setup
