@@ -1,5 +1,4 @@
-Example for laravel comments package (v2.0). 
-
+Example for laravel comments package (v3.0). 
 
 Setup
 - Create .env
